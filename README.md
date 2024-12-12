@@ -22,10 +22,3 @@ Este es el frontend del sistema de gestión de películas que consume datos de l
 - **@mdi/js:** Para incluir iconos en la aplicación.
 
 ---
-
-## Instalación y Configuración 🚀
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone <URL-DEL-REPOSITORIO>
-   cd <NOMBRE-DEL-PROYECTO-FRONTEND>
